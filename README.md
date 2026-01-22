@@ -1,6 +1,6 @@
 # Frontend Mentor Solutions
 
-This repository contains my solutions to Frontend Mentor challenges.
+Here you can find all the Frontend Mentor challenges I've done.
 
 | Challenge | Live Demo | Repository |
 |----------|-----------|------------|
