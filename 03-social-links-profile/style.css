@@ -1,0 +1,113 @@
+:root{
+    --background: #171717;
+    --bg-card: #262626;
+    --hover-text: #C5F82A;
+    --buttons: #333333;
+    --main-text: #FFFFFF;
+    --secondary-text: #C5F82A;
+    --text-bio: #EEEEEE;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("assets/fonts/static/Inter-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("assets/fonts/static/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("assets/fonts/static/Inter-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+/* general styling */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--main-text);
+    font-family: "Inter", sans-serif;
+    overflow-y: hidden;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.card{
+    background-color: var(--bg-card);
+    text-align: center;
+    border-radius: 1.25rem;
+    padding: 1.5rem;
+
+    img{
+        width: 80px;
+        border-radius: 50%;
+    }
+
+    h1{
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .place{
+        font-size: 0.875rem;
+        font-weight: bold;
+        color: var(--secondary-text);
+        margin-top: 0;
+        margin-bottom: 1.875rem;
+    }
+
+    .description{
+        font-size: 0.875rem;
+        padding: 0 1.5rem;
+    }
+
+    .buttons{
+        display: flex;
+        flex-direction: column;
+
+        a{
+            font-weight: bold;
+            color: var(--main-text);
+            text-decoration: none;
+            background-color: var(--buttons);
+            margin: 0.625rem;
+            padding: 0.75em;
+            border-radius: 0.625rem;
+        }
+
+        a:hover{
+            background-color: var(--hover-text);
+            color: #171717;
+        }
+    }
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
