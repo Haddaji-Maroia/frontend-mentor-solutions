@@ -12,8 +12,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com)
-- Live Site URL: [Solution Demo](https://github.com)
+- Solution URL: [Github repo](https://github.com/Haddaji-Maroia/frontend-mentor-solutions/tree/main/03-social-links-profile)
+- Live Site URL: [Solution Demo](https://haddaji-maroia.github.io/frontend-mentor-solutions/03-social-links-profile/)
 
 
 ### Build with
@@ -24,5 +24,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Author
 
-- WeL: [Github repo](https://github.com)
-- Live Site URL: [Solution Demo](https://github.com)
+
