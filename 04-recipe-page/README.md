@@ -12,8 +12,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/Haddaji-Maroia/frontend-mentor-solutions/tree/main/03-social-links-profile)
-- Live Site URL: [Solution Demo](https://haddaji-maroia.github.io/frontend-mentor-solutions/03-social-links-profile/)
+- Solution URL: [Github repo](https://github.com/Haddaji-Maroia/frontend-mentor-solutions/tree/main/04-recipe-page)
+- Live Site URL: [Solution Demo](https://haddaji-maroia.github.io/frontend-mentor-solutions/04-recipe-page/)
 
 
 ### Build with
