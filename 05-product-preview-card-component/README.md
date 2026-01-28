@@ -13,8 +13,8 @@ This is a solution to the [Product preview card component on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/Haddaji-Maroia/frontend-mentor-solutions/tree/main/04-recipe-page)
-- Live Site URL: [Solution Demo](https://haddaji-maroia.github.io/frontend-mentor-solutions/04-recipe-page/)
+- Solution URL: [Github repo](https://github.com/Haddaji-Maroia/frontend-mentor-solutions/blob/main/05-product-preview-card-component)
+- Live Site URL: [Solution Demo]([https://haddaji-maroia.github.io/frontend-mentor-solutions/04-recipe-page/](https://haddaji-maroia.github.io/frontend-mentor-solutions/05-product-preview-card-component/))
 
 
 ### Build with
