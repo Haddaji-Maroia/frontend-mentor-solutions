@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section on Frontend Mentor](https:/
 
 ### Screenshot
 
-![Social links profile](desktop-design.jpg)
+![Social links profile](design/desktop-design.jpg)
 
 
 
